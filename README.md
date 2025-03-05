@@ -1,6 +1,7 @@
 ## Hi there 👋
 Description
 Welcome to my project
+This is the commit from VS code which use git command
 <!--
 **Clarence000000/Clarence000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
